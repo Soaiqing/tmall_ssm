@@ -2,7 +2,7 @@ package comparator;
  
 import java.util.Comparator;
  
-import com.how2java.tmall.pojo.Product;
+import com.wzh.tmall.pojo.Product;
  
 public class ProductReviewComparator implements Comparator<Product>{
  
